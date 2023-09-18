@@ -1,4 +1,4 @@
-# character_fusion![fusion](https://github.com/DarielEGM/character_fusion/assets/123778387/4bf51003-515b-4d52-8b84-9195b5857069)
+# character_fusion ![fusion](https://github.com/DarielEGM/character_fusion/assets/123778387/4bf51003-515b-4d52-8b84-9195b5857069)
 
 This project was built with Python.
 
